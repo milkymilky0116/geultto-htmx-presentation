@@ -13,6 +13,7 @@
 
 - Golang
 - HTMX
-- Air (hot-reload)
-- Echo (web framework)
-- CSS Library (maybe tailwind)
+
+자료
+
+[Presentation](https://slides.com/milkymilky/deck)
